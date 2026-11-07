@@ -1,4 +1,4 @@
-# 11.4 Giga Lips with a Budget Laptop
+# Alepotrypa Lovers: Tao’s EQT on a Budget Laptop
 
 Like complementing lovers, Mace4 can show non-existence 
 of a proof by a counter example, while Prover9 can exhibit 
@@ -14,5 +14,5 @@ more accuracy and 200–400x more speed.
 
 See also:
 
-**Medium Article - Alepotrypa Lovers**  
+**Medium Article - Tao’s EQT on a Budget Laptop**  
 https://medium.com/2989/7ee8c9631d9f
